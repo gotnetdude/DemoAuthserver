@@ -1,0 +1,17 @@
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\Identity Server Web API Authentication Version 1.0\Constants\bin\Debug\netstandard1.6\Constants.deps.json
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\Identity Server Web API Authentication Version 1.0\Constants\bin\Debug\netstandard1.6\Constants.dll
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\Identity Server Web API Authentication Version 1.0\Constants\bin\Debug\netstandard1.6\Constants.pdb
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\Identity Server Web API Authentication Version 1.0\Constants\obj\Debug\netstandard1.6\Constants.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\Identity Server Web API Authentication Version 1.0\Constants\obj\Debug\netstandard1.6\Constants.AssemblyInfoInputs.cache
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\Identity Server Web API Authentication Version 1.0\Constants\obj\Debug\netstandard1.6\Constants.AssemblyInfo.cs
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\Identity Server Web API Authentication Version 1.0\Constants\obj\Debug\netstandard1.6\Constants.dll
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\Identity Server Web API Authentication Version 1.0\Constants\obj\Debug\netstandard1.6\Constants.pdb
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\Identity Server Web API Authentication Version 1.0\Constants\obj\Debug\netstandard1.6\Constants.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\Constants\bin\Debug\netstandard1.6\Constants.deps.json
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\Constants\bin\Debug\netstandard1.6\Constants.dll
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\Constants\bin\Debug\netstandard1.6\Constants.pdb
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\Constants\obj\Debug\netstandard1.6\Constants.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\Constants\obj\Debug\netstandard1.6\Constants.AssemblyInfoInputs.cache
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\Constants\obj\Debug\netstandard1.6\Constants.AssemblyInfo.cs
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\Constants\obj\Debug\netstandard1.6\Constants.dll
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\Constants\obj\Debug\netstandard1.6\Constants.pdb

@@ -1,0 +1,11 @@
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\AngularClient\bin\Debug\netcoreapp2.0\AngularClient.deps.json
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\AngularClient\bin\Debug\netcoreapp2.0\AngularClient.runtimeconfig.json
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\AngularClient\bin\Debug\netcoreapp2.0\AngularClient.runtimeconfig.dev.json
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\AngularClient\bin\Debug\netcoreapp2.0\AngularClient.dll
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\AngularClient\bin\Debug\netcoreapp2.0\AngularClient.pdb
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\AngularClient\obj\Debug\netcoreapp2.0\AngularClient.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\AngularClient\obj\Debug\netcoreapp2.0\AngularClient.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\AngularClient\obj\Debug\netcoreapp2.0\AngularClient.AssemblyInfoInputs.cache
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\AngularClient\obj\Debug\netcoreapp2.0\AngularClient.AssemblyInfo.cs
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\AngularClient\obj\Debug\netcoreapp2.0\AngularClient.dll
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\AngularClient\obj\Debug\netcoreapp2.0\AngularClient.pdb

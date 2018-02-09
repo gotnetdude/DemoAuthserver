@@ -1,0 +1,14 @@
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\AuthServer\bin\Debug\netcoreapp2.0\AuthServer.deps.json
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\AuthServer\bin\Debug\netcoreapp2.0\AuthServer.runtimeconfig.json
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\AuthServer\bin\Debug\netcoreapp2.0\AuthServer.runtimeconfig.dev.json
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\AuthServer\bin\Debug\netcoreapp2.0\AuthServer.dll
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\AuthServer\bin\Debug\netcoreapp2.0\AuthServer.pdb
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\AuthServer\obj\Debug\netcoreapp2.0\AuthServer.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\AuthServer\obj\Debug\netcoreapp2.0\AuthServer.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\AuthServer\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\AuthServer\obj\Debug\netcoreapp2.0\AuthServer.AssemblyInfoInputs.cache
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\AuthServer\obj\Debug\netcoreapp2.0\AuthServer.AssemblyInfo.cs
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\AuthServer\obj\Debug\netcoreapp2.0\AuthServer.dll
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\AuthServer\obj\Debug\netcoreapp2.0\AuthServer.pdb
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\AuthServer\bin\Debug\netcoreapp2.0\Constants.dll
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\AuthServer\bin\Debug\netcoreapp2.0\Constants.pdb

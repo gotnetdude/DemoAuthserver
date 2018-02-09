@@ -1,0 +1,28 @@
+2018-02-06 13:54:03.573 -05:00 [INF] AuthenticationScheme: oidc was challenged.
+2018-02-06 13:54:55.579 -05:00 [INF] AuthenticationScheme: Cookies signed in.
+2018-02-06 13:54:55.613 -05:00 [INF] AuthenticationScheme: Cookies was successfully authenticated.
+2018-02-06 13:54:56.283 -05:00 [INF] AuthenticationScheme: Cookies was successfully authenticated.
+2018-02-06 13:54:56.293 -05:00 [INF] AuthenticationScheme: Cookies was successfully authenticated.
+2018-02-06 13:59:40.971 -05:00 [INF] AuthenticationScheme: Cookies was successfully authenticated.
+2018-02-06 13:59:41.086 -05:00 [INF] AuthenticationScheme: Cookies was successfully authenticated.
+2018-02-06 14:00:37.133 -05:00 [INF] AuthenticationScheme: Cookies was successfully authenticated.
+2018-02-06 14:01:08.042 -05:00 [INF] AuthenticationScheme: Cookies was successfully authenticated.
+2018-02-06 14:01:08.115 -05:00 [INF] AuthenticationScheme: Cookies signed out.
+2018-02-06 14:01:08.126 -05:00 [INF] AuthenticationScheme: Cookies was successfully authenticated.
+2018-02-06 14:01:08.136 -05:00 [INF] AuthenticationScheme: oidc signed out.
+2018-02-06 14:01:10.623 -05:00 [INF] Remote signout request processed.
+2018-02-06 14:01:10.632 -05:00 [INF] AuthenticationScheme: Cookies signed out.
+2018-02-09 14:12:48.288 -05:00 [INF] AuthenticationScheme: oidc was challenged.
+2018-02-09 14:13:38.063 -05:00 [INF] AuthenticationScheme: Cookies signed in.
+2018-02-09 14:13:38.098 -05:00 [INF] AuthenticationScheme: Cookies was successfully authenticated.
+2018-02-09 14:13:38.676 -05:00 [INF] AuthenticationScheme: Cookies was successfully authenticated.
+2018-02-09 14:13:38.686 -05:00 [INF] AuthenticationScheme: Cookies was successfully authenticated.
+2018-02-09 14:13:42.941 -05:00 [INF] AuthenticationScheme: Cookies was successfully authenticated.
+2018-02-09 14:13:43.063 -05:00 [INF] AuthenticationScheme: Cookies was successfully authenticated.
+2018-02-09 14:13:56.056 -05:00 [INF] AuthenticationScheme: Cookies was successfully authenticated.
+2018-02-09 14:14:04.203 -05:00 [INF] AuthenticationScheme: Cookies was successfully authenticated.
+2018-02-09 14:14:04.271 -05:00 [INF] AuthenticationScheme: Cookies signed out.
+2018-02-09 14:14:04.281 -05:00 [INF] AuthenticationScheme: Cookies was successfully authenticated.
+2018-02-09 14:14:04.294 -05:00 [INF] AuthenticationScheme: oidc signed out.
+2018-02-09 14:14:06.737 -05:00 [INF] Remote signout request processed.
+2018-02-09 14:14:06.744 -05:00 [INF] AuthenticationScheme: Cookies signed out.

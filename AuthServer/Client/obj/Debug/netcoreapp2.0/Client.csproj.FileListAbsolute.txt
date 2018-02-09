@@ -1,0 +1,11 @@
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\Client\bin\Debug\netcoreapp2.0\Client.deps.json
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.json
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.dev.json
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\Client\bin\Debug\netcoreapp2.0\Client.dll
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\Client\bin\Debug\netcoreapp2.0\Client.pdb
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\Client\obj\Debug\netcoreapp2.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfoInputs.cache
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfo.cs
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\Client\obj\Debug\netcoreapp2.0\Client.dll
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\Client\obj\Debug\netcoreapp2.0\Client.pdb
+C:\Users\Paul\Documents\Visual Studio 2017\Projects\AuthServer\Client\obj\Debug\netcoreapp2.0\Client.csprojResolveAssemblyReference.cache
